@@ -1,8 +1,8 @@
-# {Company} Postman Collection
+# Toast Postman Collection
 
-This repository contains a [Postman Collection](/collection.json) for the [{company} API](docs_url).
+This repository contains a [Postman Collection](/collection.json) for the [Toast API](https://doc.toasttab.com/openapi/).
 
-[![Open in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/fern-api/workspace/fern-{company})
+[![Open in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/fern-api/workspace/hotschedules)
 
 ## What is a Postman Collection?
 
